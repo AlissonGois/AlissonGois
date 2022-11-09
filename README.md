@@ -1,7 +1,7 @@
 ## Olá, sou o Alisson Gois.
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Ourinhos.
 - 👨‍💻 Estuando de inicio PHP, C++, HTML5 e CSS3. 
-- ⭐ No momento estou aprendendo, um pouco leigo, mas a meta é ser um developer e trabalhar na área!
+- ⭐ No momento estou aprendendo, mas a meta é ser um developer e trabalhar na área!
 
 ##
 
